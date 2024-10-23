@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: 
+title: 
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Master Student in Aeronautical and Astronautical Science and Technology
 
 profile:
   align: right
