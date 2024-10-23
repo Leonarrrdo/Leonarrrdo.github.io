@@ -1,6 +1,6 @@
 ---
-layout: 
-title: 
+layout: about
+title: About
 permalink: /
 subtitle: Master Student in Aeronautical and Astronautical Science and Technology
 
