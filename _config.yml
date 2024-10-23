@@ -247,9 +247,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/teaching.md
-  - _pages/repositories.md
-  - _pages/404.md
+  - _pages/about_einstein.md
 keep_files:
   - CNAME
   - .nojekyll
