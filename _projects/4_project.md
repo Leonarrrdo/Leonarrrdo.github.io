@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ground-based Air Bearing Platform for Satellite Simulation
-description: Key Research and Development Programme of the National Natural Science Foundation of China
+description: From a Key Research and Development Programme of the National Natural Science Foundation of China
 img: assets/img/project_4_1.jpg
 importance: 2
 category: Engineering
