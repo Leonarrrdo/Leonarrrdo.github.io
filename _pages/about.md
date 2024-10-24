@@ -19,5 +19,5 @@ social: true # includes social icons at the bottom of the page
 
 Yifeng Ma received a B.S. in __Aerospace Engineering__ from __Northwestern Polytechnical University__, China in 2022. He is pursuing an M.S. degree in __Aeronautical and Astronautical Science and Technology__ with the School of Astronautics, at the __Northwestern Polytechnical University__. 
 
-His research interests include __robotics__, ___game theory__, __formation control__, __learning based control__ and __multi-agent systems__.
+His research interests include __robotics__, __game theory__, __formation control__, __learning based control__ and __multi-agent systems__.
 
