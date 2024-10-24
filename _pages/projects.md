@@ -6,7 +6,7 @@ description: Research Projects and Engineering Projects.
 nav: true
 nav_order: 3
 display_categories: [Research, Engineering]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -28,12 +28,12 @@ horizontal: false
     {% endfor %}
     </div>
   </div>
-  <!-- {% else %}
+  {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
-  </div> -->
+  </div>
   {% endif %}
   {% endfor %}
 
@@ -54,12 +54,12 @@ horizontal: false
     {% endfor %}
     </div>
   </div>
-  <!-- {% else %}
+  {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
-  </div> -->
+  </div>
   {% endif %}
 {% endif %}
 </div>

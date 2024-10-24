@@ -8,6 +8,8 @@ category: Research
 
 ---
 
+__Apr, 2020 - Sep, 2022__
+
 __Aims:__ Design motion planning approaches and formation control schemes for multiple UAVs, enabling them to collaborate in transporting payloads via tethers.
 
 __Objects:__ Multi-UAV Cooperative Transportaion System

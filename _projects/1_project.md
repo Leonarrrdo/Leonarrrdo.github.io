@@ -8,6 +8,8 @@ category: Research
 
 ---
 
+__Sep, 2022 - Present__
+
 __Aims:__ explore in depth the interactions among agents in a multi-agent system, and then to design controllers by combining data-driven approach, game theory and formation control method, enhancing the capability of multi-agent systems.
 
 __Objects:__ Tethered Space Net Robot (TSNR)
